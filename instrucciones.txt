@@ -1,0 +1,2 @@
+cambiar la dirección del servidor en los script de subir imagenes
+y cambiar las credenciales de acceso del archivo de base de datos
